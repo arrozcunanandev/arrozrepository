@@ -1,5 +1,11 @@
 <div class="product">
-<h3>
-  users works!
-</h3>
+   <table class="table table-condensed" *ngFor="let user of datas; let i = index">
+    <thead>
+      <tr class="trylng">
+        <th>ID: {{user.id}}</th>
+         <th>Name: {{user.name}}</th>
+          <th>Age: {{user.age}}</th>
+      </tr>
+    </thead>
+  </table>
 </div>

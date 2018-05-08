@@ -1,19 +1,30 @@
-a {
-    margin-left:50px;
-    font-family:Lao MN;
-    color:#1f1c6d;
-    position: relative;
-    top: 40px;
-    text-decoration:none;
-}
+// a {
+//     margin-left:50px;
+//     font-family:Lao MN;
+//     color:#1f1c6d;
+//     position: relative;
+//     top: 40px;
+//     text-decoration:none;
+// }
+// .nav.navbar-nav {
+//     text-align: center;
+//     font-weight: bold;
+//     background-color:white;
+//     min-height:100px;
+//     position: relative;
+//     font-size:25px;
+// }
+// body{
+//     margin: 0 !important;
+// }
 .nav.navbar-nav {
-    text-align: center;
-    font-weight: bold;
-    background-color:white;
-    min-height:100px;
-    position: relative;
-    font-size:25px;
+    text-align:center;
+    margin:20px;
 }
-body{
-    margin: 0 !important;
+a{
+    color:#1f1c6d;
+    font-family:Lao MN;
+    font-size:20px;
+    text-decoration:none;
+     margin:10px;
 }
