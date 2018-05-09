@@ -9,6 +9,8 @@ import { UsersComponent } from './users/users.component';
 import { ProductsComponent } from './products/products.component';
 import { HeaderComponent } from './header/header.component';
 import { CenterComponent } from './center/center.component';
+import { AboutComponent } from './about/about.component';
+import { ContactComponent } from './contact/contact.component';
 
 
 @NgModule({
@@ -18,7 +20,9 @@ import { CenterComponent } from './center/center.component';
     UsersComponent,
     ProductsComponent,
     HeaderComponent,
-    CenterComponent
+    CenterComponent,
+    AboutComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,

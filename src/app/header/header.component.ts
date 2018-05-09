@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class HeaderComponent implements OnInit {
 private navigation  = 
 [
-{  home: "Home",users: "Users",products: "Products"}
+{  home: "Home" ,about: "About" ,users: "Users",products: "Products"}
 ];
   constructor() { }
 

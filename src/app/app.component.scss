@@ -24,6 +24,13 @@
 .container-fluid {
     padding-right:0 !important;
 }
+.col-md-6.centerleft {
+    height:50%;
+    width:30%;
+    position:relative;
+    margin:150px;
+    background: rgba(255,255,255,0.5);
+}
 // .leftside{
 //     background-color: #1e394a;
 //     height:900px;
