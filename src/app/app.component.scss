@@ -10,12 +10,12 @@
 //     list-style:none
 // }
 .col-md-12.header {
-    margin:-10px !important;
+    background-image: url("../assets/img/header3.jpg"); 
+    height: 160px;
 }
-.col-md-8.center {
-    margin-top:-10px !important;
-    background-color:#AFEEEE;
-    min-height:100px;
+.col-md-12.center {
+    background-image: url("../assets/img/centerheader2.jpg"); 
+    height:780px;
 }
 .col-md-12.header {
     padding-left:0 !important;
@@ -24,3 +24,11 @@
 .container-fluid {
     padding-right:0 !important;
 }
+// .leftside{
+//     background-color: #1e394a;
+//     height:900px;
+// }
+// .rightside{
+//     background-color: #1e394a;
+//     height:900px;
+// }
