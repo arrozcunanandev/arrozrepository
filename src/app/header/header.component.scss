@@ -19,12 +19,17 @@
 // }
 .nav.navbar-nav {
     text-align:center;
-    margin:20px;
+    margin-bottom:20px;
+    background-color:#1e394a;
+    height:60px;
 }
 a{
-    color:#1f1c6d;
+    color:white;
     font-family:Lao MN;
     font-size:20px;
     text-decoration:none;
      margin:10px;
+}
+li {
+    margin-top:20px;
 }

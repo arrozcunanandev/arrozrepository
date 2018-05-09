@@ -6,7 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent implements OnInit {
-
+private navigation  = 
+[
+{  home: "Home",users: "Users",products: "Products"}
+];
   constructor() { }
 
   ngOnInit() {
